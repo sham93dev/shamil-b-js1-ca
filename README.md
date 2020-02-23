@@ -1,1 +1,0 @@
-# shamil-b-js1-ca
