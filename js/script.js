@@ -45,5 +45,5 @@ function characters (response) {
     .then(handleCharacters)
     .catch(Error);
 
-    
+   
     
