@@ -6,4 +6,3 @@ function delayFourSeconds() {
 
 setTimeout(delayFourSeconds, 4000);
 
-
